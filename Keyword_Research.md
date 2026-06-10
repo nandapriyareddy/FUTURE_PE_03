@@ -1,19 +1,22 @@
-Potential Customer Searches:
-1.	Event Planners in Nellore
-2.	Wedding Decoration Cost in Nellore
-3.	Wedding Stage Decoration Ideas
-4.	Best Wedding Decorator in Nellore
-5.	Wedding Decoration Themes
-6.	Engagement Decoration Ideas
-7.	Wedding decorators in Nellore
-8.	Wedding decoration Nellore
-9.	Marriage decoration Nellore
-10.	Event planners near me
-11.	Wedding stage decoration Nellore
-12.	Birthday decoration Nellore
-13.	Engagement decoration Nellore
-14.	How to choose a wedding decorator in Nellore
-15.	Modern wedding decoration ideas
-16.	Wedding stage design trends 2026
-17.	Budget wedding decoration ideas
-18.	Engagement stage decoration ideas
+# Keyword Research
+
+| Keyword | Search Intent |
+|----------|----------|
+| Event Planners in Nellore | Commercial |
+| Wedding Decoration Cost in Nellore | Transactional |
+| Wedding Stage Decoration Ideas | Informational |
+| Best Wedding Decorator in Nellore | Commercial Investigation |
+| Wedding Decoration Themes | Informational |
+| Engagement Decoration Ideas | Informational |
+| Wedding decorators in Nellore | Commercial |
+| Wedding decoration Nellore | Commercial |
+| Marriage decoration Nellore | Commercial |
+| Event planners near me | Commercial |
+| Wedding stage decoration Nellore | Commercial |
+| Birthday decoration Nellore | Commercial |
+| Engagement decoration Nellore | Commercial |
+| How to choose a wedding decorator in Nellore | Informational |
+| Modern wedding decoration ideas | Informational |
+| Wedding stage design trends 2026 | Informational |
+| Budget wedding decoration ideas | Informational |
+| Engagement stage decoration ideas | Informational |
