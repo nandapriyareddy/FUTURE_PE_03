@@ -20,3 +20,35 @@
 | Wedding stage design trends 2026 | Informational |
 | Budget wedding decoration ideas | Informational |
 | Engagement stage decoration ideas | Informational |
+
+# Content Cluster Strategy
+
+## Pillar Blog
+
+Title: Best Event Planners and Wedding Decorators in Nellore
+
+Primary Keyword: Event Planners in Nellore
+
+Search Intent: Commercial
+
+## Supporting Blogs
+
+1. Wedding Decoration Cost in Nellore
+   - Keyword: Wedding Decoration Cost in Nellore
+   - Intent: Transactional
+
+2. Wedding Stage Decoration Ideas for Modern Weddings
+   - Keyword: Wedding Stage Decoration Ideas
+   - Intent: Informational
+
+3. How to Choose the Best Wedding Decorator in Nellore
+   - Keyword: Best Wedding Decorator in Nellore
+   - Intent: Commercial Investigation
+
+4. Trending Wedding Decoration Themes for 2026
+   - Keyword: Wedding Decoration Themes
+   - Intent: Informational
+
+5. Engagement Decoration Ideas for Memorable Celebrations
+   - Keyword: Engagement Decoration Ideas
+   - Intent: Informational
