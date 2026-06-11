@@ -63,31 +63,6 @@ Event Planners in Nellore
 
 ---
 
-## Prompt Engineering Workflow
-
-The project includes reusable prompts for:
-
-1. Keyword Research
-2. Content Cluster Generation
-3. Blog Outline Creation
-4. Long-form Blog Writing
-5. Meta Title & Description Generation
-
-These prompts can be reused for other local businesses and industries.
-
----
-
-## Project Files
-
-- Business_Selection.docx
-- Keyword_Research.docx
-- Prompt_System.docx
-- Pillar_Blog.docx
-- Supporting_Blog_Outlines.docx
-
-
----
-
 ## Learning Outcomes
 
 Through this project, I learned:
